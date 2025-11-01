@@ -17,5 +17,19 @@
       whichKey.enable = true;
       cheatsheet.enable = true;
     };
+
+    options = {
+      autoindent = false;
+      number = true;
+      relativenumber = true;
+      cursorline = true;
+      tabstop = 4;
+      shiftwidth = 4;
+      softtabstop = 4;
+      wrap = false;
+      swapfile = false;
+      showmode = false;
+      
+    };
   };
 }
